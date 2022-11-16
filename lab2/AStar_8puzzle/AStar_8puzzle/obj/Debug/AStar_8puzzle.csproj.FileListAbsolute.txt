@@ -1,0 +1,8 @@
+C:\Users\pavle\source\repos\AStar_8puzzle\AStar_8puzzle\bin\Debug\AStar_8puzzle.exe.config
+C:\Users\pavle\source\repos\AStar_8puzzle\AStar_8puzzle\bin\Debug\AStar_8puzzle.exe
+C:\Users\pavle\source\repos\AStar_8puzzle\AStar_8puzzle\bin\Debug\AStar_8puzzle.pdb
+C:\Users\pavle\source\repos\AStar_8puzzle\AStar_8puzzle\obj\Debug\AStar_8puzzle.csproj.AssemblyReference.cache
+C:\Users\pavle\source\repos\AStar_8puzzle\AStar_8puzzle\obj\Debug\AStar_8puzzle.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavle\source\repos\AStar_8puzzle\AStar_8puzzle\obj\Debug\AStar_8puzzle.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\AStar_8puzzle\AStar_8puzzle\obj\Debug\AStar_8puzzle.exe
+C:\Users\pavle\source\repos\AStar_8puzzle\AStar_8puzzle\obj\Debug\AStar_8puzzle.pdb
