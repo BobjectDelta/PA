@@ -1,0 +1,8 @@
+C:\Users\pavle\source\repos\Salesman_ant_algorithm\Salesman_ant_algorithm\bin\Debug\Salesman_ant_algorithm.exe.config
+C:\Users\pavle\source\repos\Salesman_ant_algorithm\Salesman_ant_algorithm\bin\Debug\Salesman_ant_algorithm.exe
+C:\Users\pavle\source\repos\Salesman_ant_algorithm\Salesman_ant_algorithm\bin\Debug\Salesman_ant_algorithm.pdb
+C:\Users\pavle\source\repos\Salesman_ant_algorithm\Salesman_ant_algorithm\obj\Debug\Salesman_ant_algorithm.csproj.AssemblyReference.cache
+C:\Users\pavle\source\repos\Salesman_ant_algorithm\Salesman_ant_algorithm\obj\Debug\Salesman_ant_algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavle\source\repos\Salesman_ant_algorithm\Salesman_ant_algorithm\obj\Debug\Salesman_ant_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\Salesman_ant_algorithm\Salesman_ant_algorithm\obj\Debug\Salesman_ant_algorithm.exe
+C:\Users\pavle\source\repos\Salesman_ant_algorithm\Salesman_ant_algorithm\obj\Debug\Salesman_ant_algorithm.pdb
