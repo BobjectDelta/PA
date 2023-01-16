@@ -1,0 +1,8 @@
+C:\Users\pavle\source\repos\Lab5_genAl\Lab5_genAl\bin\Debug\Lab5_genAl.exe.config
+C:\Users\pavle\source\repos\Lab5_genAl\Lab5_genAl\bin\Debug\Lab5_genAl.exe
+C:\Users\pavle\source\repos\Lab5_genAl\Lab5_genAl\bin\Debug\Lab5_genAl.pdb
+C:\Users\pavle\source\repos\Lab5_genAl\Lab5_genAl\obj\Debug\Lab5_genAl.csproj.AssemblyReference.cache
+C:\Users\pavle\source\repos\Lab5_genAl\Lab5_genAl\obj\Debug\Lab5_genAl.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavle\source\repos\Lab5_genAl\Lab5_genAl\obj\Debug\Lab5_genAl.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\Lab5_genAl\Lab5_genAl\obj\Debug\Lab5_genAl.exe
+C:\Users\pavle\source\repos\Lab5_genAl\Lab5_genAl\obj\Debug\Lab5_genAl.pdb
