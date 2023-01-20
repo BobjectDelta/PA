@@ -1,0 +1,12 @@
+C:\Users\pavle\source\repos\Daifugo\Daifugo\bin\Debug\Daifugo.exe.config
+C:\Users\pavle\source\repos\Daifugo\Daifugo\bin\Debug\Daifugo.exe
+C:\Users\pavle\source\repos\Daifugo\Daifugo\bin\Debug\Daifugo.pdb
+C:\Users\pavle\source\repos\Daifugo\Daifugo\obj\Debug\Daifugo.csproj.AssemblyReference.cache
+C:\Users\pavle\source\repos\Daifugo\Daifugo\obj\Debug\Daifugo.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavle\source\repos\Daifugo\Daifugo\obj\Debug\Daifugo.GameForm.resources
+C:\Users\pavle\source\repos\Daifugo\Daifugo\obj\Debug\Daifugo.MenuForm.resources
+C:\Users\pavle\source\repos\Daifugo\Daifugo\obj\Debug\Daifugo.Properties.Resources.resources
+C:\Users\pavle\source\repos\Daifugo\Daifugo\obj\Debug\Daifugo.csproj.GenerateResource.cache
+C:\Users\pavle\source\repos\Daifugo\Daifugo\obj\Debug\Daifugo.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\Daifugo\Daifugo\obj\Debug\Daifugo.exe
+C:\Users\pavle\source\repos\Daifugo\Daifugo\obj\Debug\Daifugo.pdb
